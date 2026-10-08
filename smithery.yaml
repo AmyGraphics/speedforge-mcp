@@ -1,0 +1,22 @@
+name: speedforge-mcp
+displayName: SpeedForge - Autonomous Core Web Vitals & React Performance MCP
+description: Universal web performance, bundle size & React rendering optimization engine for Cursor, Claude Code & Windsurf. Diagnoses slow Next.js/React components, eliminates expensive re-renders with memoization, fixes Core Web Vitals (LCP/INP/CLS), and swaps bloated npm packages with zero-cost tree-shakeable alternatives.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/speedforge-mcp
+repository: https://github.com/AmyGraphics/speedforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/speedforge-mcp/main/icon.png
+keywords:
+  - web-performance
+  - core-web-vitals
+  - react-optimization
+  - nextjs
+  - bundle-size
+  - tree-shaking
+  - pagespeed
+  - lighthouse
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://speedforge-api.agentweb-hub.workers.dev/mcp
