@@ -13,6 +13,12 @@ Universal Autonomous Core Web Vitals, Bundle Size & React Rendering Performance 
 `https://speedforge-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `audit_page_weight_live`
+
+Fetches any live URL and returns a real page-weight profile: HTML size, script/style/image asset counts, compression and caching delivery audit, and prioritized P1/P2/P3 speed fixes — real network data, not estimates.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
